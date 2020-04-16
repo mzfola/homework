@@ -3,10 +3,10 @@ pseudo code
 Initial Function()
 {
 <<<<<<< HEAD
- security patch
-}
+ feature1
 =======
-  feature1
-}
-
+ 
+security patch
 >>>>>>> master
+}
+ 
