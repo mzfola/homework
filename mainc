@@ -2,29 +2,5 @@ pseudo code
 {
 Initial Function()
 {
-  //Sample Code
-}
-
-Initial Security()
-{
- //Sample Code
-}
-
-
-
-} 
-pseudo code
-{
-Initial Function()
-{
-  //Sample Code
-}
-
-feature1()
-{
-  //Sample Code for Feature 1
-}
-
-
-
+ security patch
 }
